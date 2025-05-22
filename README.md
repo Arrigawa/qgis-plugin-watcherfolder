@@ -6,3 +6,6 @@ install manual
 - Open QGIS > Plugins > Manage and install plugins > install from ZIP
 - choose the instalation file '.zip'
 - Restart QGIS
+
+up.0.1 just add small feature
+up.0.2 make layer more organize but not clean yet
